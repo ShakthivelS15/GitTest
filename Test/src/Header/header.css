@@ -1,0 +1,22 @@
+body{
+    background-color: #ffffff;
+}
+.text{
+    color: #9a9696;
+    font-size: 13px;
+}
+.header-text{
+    color: #9a9696;
+    font-size: 13px;
+}
+@media (max-width: 900px) {
+    .text{
+        color: #9a9696;
+        font-size: 12px;
+    }
+}
+
+
+.hover-text {
+    color:#fd4c82
+}
